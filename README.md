@@ -1,1 +1,1 @@
-# AutoGoClicker
+# GoAutoCliker
