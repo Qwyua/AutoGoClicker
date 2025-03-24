@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
 	"time"
 	"unsafe"
 	"golang.org/x/sys/windows"
